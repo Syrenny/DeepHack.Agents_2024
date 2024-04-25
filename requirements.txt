@@ -2,3 +2,4 @@ gigachain
 arxiv
 chromadb
 pymupdf
+pypdf
